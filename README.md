@@ -20,7 +20,7 @@ This project analyzes employee attrition using HR data to identify key factors i
 - Identified Overtime as strongest predictor
 
 ## 📈 Dashboard
-(Upload screenshot here)
+![Dashboard](Dashboard 1.png)
 
 ## 📂 Files Included
 - Dataset
